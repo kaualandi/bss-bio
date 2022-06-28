@@ -43,9 +43,9 @@ function App() {
                         </div>
                     </div>
                 </footer>
-                <div className="bss-popup">
+                {/* <div className="bss-popup">
                     <img src={logo} alt=""/>
-                </div>
+                </div> */}
             </div>
         </div>
     );
