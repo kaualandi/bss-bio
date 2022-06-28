@@ -21,8 +21,9 @@ function App() {
                     <div className="container">
                         <div data-aos="fade-up" className="profile">
                             <img src={profile} alt="" />
-                            <h1>• V A Z I O •</h1>
-                            <p>@bss.graff</p>
+                            <h1>@bss.graff</h1>
+                            <p>• V A Z I O •</p>
+                            <p><i>Todos nós temos um vazio.</i></p>
                         </div>
                     </div>
                 </header>
