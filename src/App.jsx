@@ -1,7 +1,6 @@
 import React, {useEffect} from 'react';
 import icon from './Icons';
 import profile from "./profile.jpg";
-import logo from "./logo.svg";
 import './App.scss';
 import AOS from 'aos';
 import "aos/dist/aos.css";
