@@ -32,7 +32,8 @@ function App() {
                         <div data-aos="fade-up" className="itens-container">
                             <a data-aos="fade-up" data-aos-delay="100" href="https://www.instagram.com/bss.graff/" className='item'>{icon.instagram} Instagram</a>
                             <a data-aos="fade-up" data-aos-delay="200" href="https://twitter.com/bss_graff" className='item'>{icon.twitter} Twitter</a>
-                            <a data-aos="fade-up" data-aos-delay="300" href="mailto:bss.graff@gmail.com" className='item'>{icon.email} E-mail</a>
+                            <a data-aos="fade-up" data-aos-delay="300" href="https://bss-disco-memoria.netlify.app" className='item'>{icon.gameControl} Jogo da Memória</a>
+                            <a data-aos="fade-up" data-aos-delay="400" href="mailto:bss.graff@gmail.com" className='item'>{icon.email} E-mail</a>
                         </div>
                     </div>
                 </main>
